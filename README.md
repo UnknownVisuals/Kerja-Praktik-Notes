@@ -54,11 +54,16 @@ Rencana hari ini:
 - Tur Lab. Energy
 - Tanya pertanyaan kemarin yang belum
 
-battery lit acid (kering prla basa pla) sama lithium fisfat
+Battery Lead acid sama lithium ferro fosfat
+- Kering : VRLA (Valve Regulated Lead Acid)
+- Basah  : VLA  (Vented Lead Acid)
 
-di telkmo kebanyakan ngetes buat batre lithium. baterai lithium 
+Di telkom kebanyakan ngetes buat batre lithium. baterai lithium 
 
-BMS buat ngecek batre yg ada
+BMS untuk mengecek keadaan batre (tiap tiap cell)
+
+Ada chamber buat menguji suhu dan kelembaban.
+Alat buat nguji batre (namanya?) buat nguji isi batre. Diuji 50x.
 
 REY namabahin ini
 
