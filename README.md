@@ -58,6 +58,8 @@ battery lit acid (kering prla basa pla) sama lithium fisfat
 
 di telkmo kebanyakan ngetes buat batre lithium. baterai lithium 
 
+BMS buat ngecek batre yg ada
+
 <br>
 
 ---
