@@ -10,6 +10,11 @@ Catatan selama Kerja Praktik di Laboratorium SIR, Telkom Test House.
 
 Senin, 01 Juli 2024.
 
+- Pengenalan Perusahaan Telkom
+- Pengenalan Direksi Telkom
+- Pengenalan Telkom Test House
+- Pengenalan Laboratorium
+
 ## **DAY - 02**
 
 Selasa, 02 Juli 2024.
@@ -39,3 +44,22 @@ Selasa, 02 Juli 2024.
 - Lamba TX RX 1550 kalo pengukuran 1625 biar gak terganggu
 - Ingress Protection (IP) Rating
 - Port ada buat management system -> pake console
+
+## **DAY - 03**
+
+Rabu, 03 Juli 2024.
+
+Rencana hari ini:
+
+- Tur Lab. Energy
+- Tanya pertanyaan kemarin yang belum
+
+battery lit acid (kering prla basa pla) sama lithium fisfat
+
+di telkmo kebanyakan ngetes buat batre lithium. baterai lithium 
+
+<br>
+
+---
+
+Most Used Emoji: ✅❌
