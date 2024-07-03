@@ -1,4 +1,6 @@
-# CATATAN KERJA PRAKTIK
+<h1 style="text-align: center;">CATATAN KERJA PRAKTIK</h1>
+
+![Telkom Test House](https://pbs.twimg.com/ext_tw_video_thumb/1750863863887859712/pu/img/DhDRXSRAzAlnvgfh.jpg:large)
 
 Catatan selama Kerja Praktik di Laboratorium SIR, Telkom Test House.
 
