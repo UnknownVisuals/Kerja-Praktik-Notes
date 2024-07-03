@@ -60,6 +60,8 @@ di telkmo kebanyakan ngetes buat batre lithium. baterai lithium
 
 BMS buat ngecek batre yg ada
 
+REY namabahin ini
+
 <br>
 
 ---
