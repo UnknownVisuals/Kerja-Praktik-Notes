@@ -61,7 +61,7 @@ Battery Lead acid sama lithium ferro fosfat
 - Kering : VRLA (Valve Regulated Lead Acid)
 - Basah  : VLA  (Vented Lead Acid)
 
-Di telkom kebanyakan ngetes buat batre lithium. baterai lithium 
+Di telkom kebanyakan ngetes buat batre lithium. baterai lithium
 
 BMS untuk mengecek keadaan batre (tiap tiap cell)
 
@@ -73,6 +73,7 @@ Alat buat nguji batre (namanya?) buat nguji isi batre. Diuji 50x.
 ## **DAY - 04**
 
 Kamis, 04 Juli 2024.
+
 - Ngerjain tugas gambar
 - Main-main di Lab. Kabel
 
@@ -97,6 +98,7 @@ Most Used Emoji: ✅❌
 -> Bahasan Battery
 
 PR:
+
 - Coba jemur battery, ngisi lagi.
 - Yang dipake di Telkom, Lithium Phospate (LFP)
 
@@ -110,4 +112,9 @@ Nama SSID sama untuk mesh.
 Desain umum jaringan FTTx
 
 Splitter meredam sinyal.
+
+
+============================
+
+Bahasan: 7 Dokumen STEL ONT baru
 
